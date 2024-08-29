@@ -1,0 +1,9 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+enum View
+{
+  START_VIEW, PLAY_VIEW, PAUSE_VIEW, GAME_OVER_VIEW
+};
+
+#endif
